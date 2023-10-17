@@ -1,5 +1,6 @@
 
 # RFM Analysis
+![](https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=1245&name=C13-Blog2-RFM-modelling.png)
 
 ## Recency, Frequency, Monetary Value (RFM): 
 Definition RFM, also known as RFM analysis, is a type of customer segmentation and behavioral targeting used to help businesses rank and segment customers based on the recency, frequency, and monetary value of a transaction.
